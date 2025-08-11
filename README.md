@@ -62,7 +62,7 @@ package.json
 Setup Instructions
 Clone the repository
 
-git clone https://github.com/yourusername/inter-block-outpass-system.git
+git clone [https://github.com/yourusername/inter-block-outpass-system.git](https://github.com/chpurnabhargav/Inter-Block-OutPass-System/)
 cd inter-block-outpass-system
 
 Install dependencies
